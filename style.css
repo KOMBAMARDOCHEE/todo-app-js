@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  padding: 40px;
+}
+
+h1 {
+  text-align: center;
+}
+
+input, button {
+  padding: 10px;
+  font-size: 16px;
+}
+
+ul {
+  margin-top: 20px;
+}
+
+li {
+  background: white;
+  padding: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
